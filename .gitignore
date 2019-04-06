@@ -10,3 +10,4 @@
 *-compiled.js
 *-compiled.js.map
 /.env.docker
+/package-lock.json
