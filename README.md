@@ -1,6 +1,6 @@
 # Kails
 
-[![Build Status](https://travis-ci.org/embbnux/kails.svg?branch=master)](https://travis-ci.org/embbnux/kails)
+[![Build Status](https://travis-ci.com/hemiao218/KailsPractice.svg?branch=master)](https://travis-ci.org/hemiao218/KailsPractice)
 
 A Web App like Ruby on Rails with Koa2, Webpack and Postgres.
 
